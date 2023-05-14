@@ -1,0 +1,4 @@
+luci	7
+vancea	10
+giuloy	3
+lupan	5
